@@ -63,6 +63,8 @@ END;
 
 Check the log of weblogic to see the printed message.
 
+\** *Tested on database 19c and 12c*
+
 ## References
 The original code is from the repo [https://github.com/daitangio/oracle-aq-jms](https://github.com/daitangio/oracle-aq-jms)
 
