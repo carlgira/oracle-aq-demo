@@ -3,7 +3,7 @@ Oracle AQ spring-boot app and instructions to config database and in Weblogic
 
 ## Configuration
 
-Follow the instructions on [set-up-an-aq-jms-advanced-queueing-jms](https://blogs.oracle.com/fusionmiddlewaresupport/jms-step-6-how-to-set-up-an-aq-jms-advanced-queueing-jms-for-soa-purposes-v2) to create the next resources:
+Follow the instructions on [set-up-an-aq-jms-advanced-queueing-jms](https://blogs.oracle.com/fusionmiddlewaresupport/jms-step-6-how-to-set-up-an-aq-jms-advanced-queueing-jms-for-soa-purposes-v2) to create the next resources: (steps 1 to 3)
 
 1. Database:
     * Create database user
