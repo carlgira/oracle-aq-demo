@@ -1,10 +1,10 @@
-package com.example.weblogicjmsdemo.config;
+package com.example.jmsdemo.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 @Component
-@ConfigurationProperties(prefix="spring.wls.jms")
+@ConfigurationProperties(prefix="app.datasource")
 public class JmsPropertiesConfig {
     private String url;
     private String username;
