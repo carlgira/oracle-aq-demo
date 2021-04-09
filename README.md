@@ -1,6 +1,8 @@
 # oracle-aq-demo
 Oracle AQ spring-boot app and instructions to config database and in Weblogic
 
+** For a the sources only using spring-boot (without weblogic in the middle) https://github.com/carlgira/oracle-aq-demo/tree/spring-boot-only 
+
 ## Configuration
 
 Follow the instructions on [set-up-an-aq-jms-advanced-queueing-jms](https://blogs.oracle.com/fusionmiddlewaresupport/jms-step-6-how-to-set-up-an-aq-jms-advanced-queueing-jms-for-soa-purposes-v2) to create the next resources: (steps 1 to 3)
