@@ -1,7 +1,7 @@
 # oracle-aq-demo
 Oracle AQ spring-boot app and instructions to config database and in Weblogic
 
-** For a the sources only using spring-boot (without weblogic in the middle) https://github.com/carlgira/oracle-aq-demo/tree/spring-boot-only 
+** For the sources only using spring-boot (without weblogic) https://github.com/carlgira/oracle-aq-demo/tree/spring-boot-only 
 
 ## Configuration
 
